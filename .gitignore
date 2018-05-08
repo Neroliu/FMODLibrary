@@ -1,0 +1,7 @@
+/app/build
+/app/.externalNativeBuild
+/app/app.iml
+/.idea
+/.gradle
+/FMODLibrary.iml
+/local.properties
